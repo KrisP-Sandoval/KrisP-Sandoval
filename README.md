@@ -1,6 +1,6 @@
 ## Sandoval Kris Patrick Luisse F. 
 
-![alt text](?raw=true)
+![alt text](https://github.com/KrisP-Sandoval/KrisP-Sandoval/blob/fa33c6f7a5b53367ea808cb8d4bcd13944d5bc68/Sandoval_Kris%20Patrick%20Luisse.jpg?raw=true)
 
 Email: kplfsandoval@gmail.com
 
