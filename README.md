@@ -4,7 +4,7 @@
 
 Email: kplfsandoval@gmail.com
 
-Phone: +63927 212 1012
+Phone: +63 927 212 1012
 
 ## Education:
 BS Computer Science
@@ -47,7 +47,7 @@ https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a86
 SOLID Pattern: 
 https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a861b56d52c/SOLID_DesignPattern
 
-
+\n
 **Other accomplishments**
 
 UI/UX Design
