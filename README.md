@@ -1,13 +1,15 @@
 ## Sandoval Kris Patrick Luisse F. 
 
+![alt text](?raw=true)
+
 Email: kplfsandoval@gmail.com
 
 Phone: +63927 212 1012
 
 ## Education:
 BS Computer Science
-New Era University
-2025
+
+New Era University - 2025
 
 ## Certification:
 
@@ -41,7 +43,7 @@ https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a86
 SOLID Pattern: 
 https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a861b56d52c/SOLID_DesignPattern
 
-**Other accomplishments **
+**Other accomplishments**
 
 UI/UX Design
 
@@ -50,12 +52,23 @@ Library Management App - Akashic Records: https://www.figma.com/file/hbArTlDpvus
 Prototype: https://www.figma.com/proto/hbArTlDpvus0Nl05Jv8EdY/AKASHIC-RECORDS?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2
 
 ## Skill Set
-Data Visualization Tools :  PowerBI Desktop, Tableau Public
 
-Programming Languages: SQL, Java, Javascript, Python
+**Data Visualization Tools** 
 
-DBMS: DB2
+PowerBI Desktop, Tableau Public
 
-Dev Tools: JasperSoft Studio, Lucidchart, Eclipse, IntelliJ IDEA
+**Programming Languages**
 
-Others: Figma, Canva
+SQL, Java, Javascript, Python
+
+**DBMS**
+
+DB2
+
+**Dev Tools**
+
+JasperSoft Studio, Lucidchart, Eclipse, IntelliJ IDEA
+
+**Others**
+
+Figma, Canva
