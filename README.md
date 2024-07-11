@@ -12,7 +12,11 @@ BS Computer Science
 New Era University - 2025
 
 ## Certification:
+CISCO Networking Academy Data Analytics Essentials - January 04, 2024
 
+Kaggle Intro to Programming - November 09, 2023
+
+Associate OCI Foundations - November 27, 2022
 
 ## Tech Achievement:
 **PowerBI Projects** 
@@ -43,6 +47,7 @@ https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a86
 SOLID Pattern: 
 https://github.com/KrisP-Sandoval/SoftEng2/tree/678e975ac282e11c2309d2feb4391a861b56d52c/SOLID_DesignPattern
 
+
 **Other accomplishments**
 
 UI/UX Design
@@ -53,22 +58,12 @@ Prototype: https://www.figma.com/proto/hbArTlDpvus0Nl05Jv8EdY/AKASHIC-RECORDS?no
 
 ## Skill Set
 
-**Data Visualization Tools** 
+**Data Visualization Tools:** PowerBI Desktop, Tableau Public
 
-PowerBI Desktop, Tableau Public
+**Programming Languages:** SQL, Java, Javascript, Python
 
-**Programming Languages**
+**DBMS:** DB2
 
-SQL, Java, Javascript, Python
+**Dev Tools:** JasperSoft Studio, Lucidchart, Eclipse, IntelliJ IDEA
 
-**DBMS**
-
-DB2
-
-**Dev Tools**
-
-JasperSoft Studio, Lucidchart, Eclipse, IntelliJ IDEA
-
-**Others**
-
-Figma, Canva
+**Others:** Figma, Canva
